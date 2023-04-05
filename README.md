@@ -29,7 +29,6 @@
     A Spring MVC is a framework to build web applications. It follows the MVC(Model-View-Controller) design pattern.
     https://docs.spring.io/spring-framework/docs/3.2.x/spring-framework-reference/html/mvc.html  
 
-
 <br>
 
 [go to top](#시작하기)
