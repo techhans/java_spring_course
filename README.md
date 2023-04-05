@@ -99,7 +99,7 @@
 
     설치 후에 위와 같이 버전이 보이면 정상 설치된 것입니다.  
 
-<br>
+<br> 
 
 2.5 소스트리(sourcetree) 설치하기
  - https://www.sourcetreeapp.com/
