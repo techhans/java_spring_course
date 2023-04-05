@@ -7,7 +7,7 @@
 >    본 과정은 단기 1개월차 교육과 2개월차 프로젝트 동안 초급개발자에게 필요한 모든 지식을 스터디해야 하는 과정으로 시간적으로 제약사항이 있으므로
 >    아래 개발 및 테스트에 필요한 환경 설정을 모두 마치고 과정에 입문하는 것을 추천
 >
-> - email : techhans2019@gmailc.om
+> - email : techhans2019@gmail.com
 >
 > 과정이나 내용 Q&A : 
 > - https://cafe.naver.com/turtlecoding 내에 자바스프링 개발자 단기과정 게시판 이용
