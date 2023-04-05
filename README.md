@@ -1,6 +1,13 @@
 # Java Spring Course
 
 # 시작하기
+
+## 0. 들어가는 글
+  - ### 자바스프링 단기과정  
+    본 과정은 단기 1개월 내에 초급개발자에게 필요한 모든 지식을 스터디해야 하는 과정으로 시간적으로 제약사항이 있으므로
+    아래 개발 및 테스트에 필요한 환경 설정을 모두 마치고 과정에 입문하는 것을 추천
+
+
 ## 1. 개요    
   - ### Spring이란?  
     Spring makes it easy to create Java **enterprise** applications.  
