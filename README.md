@@ -1,2 +1,82 @@
-# java_spring_course
-java_spring_course
+# Java Spring Course
+
+# 시작하기
+## 1. 개요    
+  - ### Spring이란?  
+    Spring makes it easy to create Java **enterprise** applications.  
+    https://spring.io/  
+    https://docs.spring.io/spring-framework/docs/current/reference/html/overview.html#spring-introduction  
+  - ### Spring MVC란?  
+    A Spring MVC is a framework to build web applications. It follows the MVC(Model-View-Controller) design pattern.
+    https://docs.spring.io/spring-framework/docs/3.2.x/spring-framework-reference/html/mvc.html  
+
+<br>
+
+## 2. 환경설정    
+
+- ### JDK
+2.1 JDK 8 설치 
+- https://techhans.tistory.com/100
+
+2.2 JDK 11 설치 
+- https://techhans.tistory.com/100
+
+<br>
+
+- ### Eclipse
+2.1 Eclipse STS 3 설치 
+- https://techhans.tistory.com/102
+- https://github.com/spring-attic/toolsuite-distribution/wiki/Spring-Tool-Suite-3
+
+2.2 Eclipse 한글 설정 
+- https://techhans.tistory.com/103
+
+2.3 Eclipse Heap Memory 설정
+- https://techhans.tistory.com/104
+
+<br>
+
+- ### Git
+2.4 Git 설치하기
+- https://techhans.tistory.com/101
+- https://git-scm.com/
+
+```bash
+     $ git --version
+     git version 2.39.0.windows.1
+
+
+     $ git --version  
+     git version 2.39.0  
+```
+
+    설치 후에 위와 같이 버전이 보이면 정상 설치된 것입니다.  
+
+<br>
+
+- ### 기타
+2.5 VS Code 설치하기
+- https://code.visualstudio.com/download  
+- VSC 플러그인 - https://marketplace.visualstudio.com/VSCode 
+
+
+2.6 sublimeText 설치하기
+- https://techhans.tistory.com/105
+- https://www.sublimetext.com/
+
+<br>
+
+## 3. Cloud     
+  - ### Cloud 가 무엇?  
+
+
+
+
+
+
+
+<br>
+<br>
+
+
+
