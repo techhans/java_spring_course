@@ -164,6 +164,9 @@
 
 <br>
 
+[go to top](#시작하기)
+
+<br>
 
 - ### 기타
 2.8 VS Code 설치하기
@@ -261,5 +264,6 @@
 <br>
 
 [go to top](#시작하기)
+
 ------
 [Index바로가기](https://github.com/techhans/java_spring_course)
