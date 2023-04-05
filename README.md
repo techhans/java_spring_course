@@ -95,8 +95,8 @@
 <br>
 
 ## 3. Cloud     
-  - ### Cloud 가 무엇인가?  
-    
+- ### Cloud 가 무엇인가?  
+  
 클라우드 컴퓨팅(영어: cloud computing)은 사용자의 직접적인 활발한 관리 없이 특히,
 데이터 스토리지(클라우드 스토리지)와 컴퓨팅 파워와 같은 컴퓨터 시스템 리소스를 필요시 
 바로 제공(on-demand availability)하는 것을 말한다. 
@@ -108,18 +108,20 @@
 어디서나 접근할 수 있는, 주문형 접근(on-demand availability of computer system resources)을 가능케하는 모델이며 
 최소한의 관리 노력으로 빠르게 예비 및 릴리스를 가능케 한다    
     
-    
-  - ### Oracle Cloud (OCI) 가 무엇인가?
+- ### Oracle Cloud (OCI) 가 무엇인가?
+  
+오라클에서 제공하는 무료 클라우드 (가장 하단에 무료혜택 기술)
+- https://docs.oracle.com/en-us/iaas/Content/FreeTier/freetier_topic-Always_Free_Resources.htm
 
 
+- ### AWS 와 Oracle Cloud (OCI) 는 어떻게 다른가?
 
+클라우드는 다양한 업체에서 제공하고 있으며 그 구조나 아키텍트 사용법등은 거의 유사하며 
+단지 오라클클라우드(OCI)는 후발주자이기에 AWS와는 비교되지 않는 항상 무료 서비스(Always Free)를 제공한다.
+(AWS도 가입시 12개월 동안 프리티어 계정(무료계정) 사용가능하나 사용량이 넘어가면 과금이 되어 실제 돈을 지불해야 함)
 
+- ### Oracle Cloud (OCI) 무료 가입방법
 
-  - ### AWS 와 Oracle Cloud (OCI) 는 어떻게 다른가?
-
-
-
-  - ### Oracle Cloud (OCI) 무료 가입방법
 3.1 OCI 무료 가입방법
 
 - https://techhans.tistory.com/36
@@ -127,27 +129,16 @@
 - https://techhans.tistory.com/38
 - https://techhans.tistory.com/39
 
-
 <br>
 
-  - ### Oracle Cloud (OCI) 가 주는 무료서버와 무료공인아이피
+- ### Oracle Cloud (OCI) 가 주는 무료서버와 무료공인아이피
 
+3.2 무료서버와 무료공인아이피 (개발시 이점)
+ 오라클클라우드(OCI)의 Alwasy Free 서비스는 사용량 제한이 없어 절대 과금이 이루어 지지 않는다
+ 실제 무료로 사용하는 서버가 2대 이며, 개발시 참조하는 공인아이피를 통해 접속하기 용이하기에
+ 개발테스트할 때 굳이 자신의 PC나 노트북에 설치할 필요가 없다
 
-
-
-  - ### Spring이란?  
-    Spring makes it easy to create Java **enterprise** applications.  
-    https://spring.io/  
-    https://docs.spring.io/spring-framework/docs/current/reference/html/overview.html#spring-introduction  
-  - ### Spring MVC란?  
-    A Spring MVC is a framework to build web applications. It follows the MVC(Model-View-Controller) design pattern.
-    https://docs.spring.io/spring-framework/docs/3.2.x/spring-framework-reference/html/mvc.html    
-
-
-- ### JDK
-3.1 JDK 8 설치 
-- https://techhans.tistory.com/100
-
+<br>
 
 **[참고]** 오라클 클라우드 무료 혜택
 ```
