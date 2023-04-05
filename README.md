@@ -124,6 +124,10 @@
 
 3.1 OCI 무료 가입방법
 
+본 과정에서는 아래 참조 링크를 통해 개발/테스트에 필요한 일부 무료 서비스를 이용할 예정
+(Ubuntu Linux, JDK 8, Nginx, PHP, Mariadb, Tomcat 설치 추천)
+
+<br>
 - https://techhans.tistory.com/36
 - https://techhans.tistory.com/37
 - https://techhans.tistory.com/38
@@ -152,6 +156,3 @@
 
 <br>
 <br>
-
-
-
