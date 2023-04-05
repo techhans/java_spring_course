@@ -18,9 +18,6 @@
 2.1 JDK 8 설치 
 - https://techhans.tistory.com/100
 
-<a href="https://www.w3schools.com" target="_blank" title="w3school a태그 관련 링크">Visit W3Schools.com!</a>
-
-
 2.2 JDK 11 설치 (기준)
 - https://techhans.tistory.com/100
 
@@ -141,9 +138,10 @@
 - ### Oracle Cloud (OCI) 가 주는 무료서버와 무료공인아이피
 
 3.2 무료서버와 무료공인아이피 (개발시 이점)
- 오라클클라우드(OCI)의 Alwasy Free 서비스는 사용량 제한이 없어 절대 과금이 이루어 지지 않는다
- 실제 무료로 사용하는 서버가 2대 이며, 개발시 참조하는 공인아이피를 통해 접속하기 용이하기에
- 개발테스트할 때 굳이 자신의 PC나 노트북에 설치할 필요가 없다
+ 
+> 오라클클라우드(OCI)의 Alwasy Free 서비스는 사용량 제한이 없어 절대 과금이 이루어 지지 않는다
+> 실제 무료로 사용하는 서버가 2대 이며, 개발시 참조하는 공인아이피를 통해 접속하기 용이하기에
+> 개발테스트할 때 굳이 자신의 PC나 노트북에 설치할 필요가 없다
 
 <br>
 
