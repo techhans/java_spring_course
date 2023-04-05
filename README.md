@@ -82,13 +82,18 @@
 
 <br>
 
+2.5 소스트리(sourcetree) 설치하기
+ - https://www.sourcetreeapp.com/
+
+<br>
+
 - ### 기타
-2.5 VS Code 설치하기
+2.6 VS Code 설치하기
 - https://code.visualstudio.com/download  
 - VSC 플러그인 - https://marketplace.visualstudio.com/VSCode 
 
 
-2.6 sublimeText 설치하기
+2.7 sublimeText 설치하기
 - https://techhans.tistory.com/105
 - https://www.sublimetext.com/
 
