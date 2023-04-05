@@ -7,6 +7,7 @@
     본 과정은 단기 1개월 내에 초급개발자에게 필요한 모든 지식을 스터디해야 하는 과정으로 시간적으로 제약사항이 있으므로
     아래 개발 및 테스트에 필요한 환경 설정을 모두 마치고 과정에 입문하는 것을 추천
 
+<br>
 
 ## 1. 개요    
   - ### Spring이란?  
@@ -31,6 +32,9 @@
 <br>
    **[참고]** openJDK버전별 다운로드 - https://jdk.java.net/archive/
 <br>
+
+> 로컬 PC 환경에서는 JDK11을 설치하여 사용하나 실제 이클립스프로젝트와 서버에서는 JDK8을 사용할 예정
+
 
 - ### Eclipse
 2.1 Eclipse STS 3 설치 
@@ -137,16 +141,21 @@
 3.1 OCI 무료 가입방법
 
 아래 순서대로 글을 읽으면서 가입 및 설치 진행
+
 <br>
 - https://techhans.tistory.com/36
+
 <br>
 - https://techhans.tistory.com/37
+
 <br>
 - https://techhans.tistory.com/38
+
 <br>
 - https://techhans.tistory.com/39
 
 <br>
+
 본 과정에서는 아래 참조 링크를 통해 개발/테스트에 필요한 일부 무료 서비스를 이용할 예정
 (Ubuntu Linux, JDK 8, Nginx, PHP, Mariadb, Tomcat 설치 추천)
 <br>
