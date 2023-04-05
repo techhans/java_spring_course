@@ -39,7 +39,7 @@
 **-vm**  
 **c:\jdk11\bin\javaw.exe**  
 **-Xmx2048m**  
-<br>
+<br> 
 ```bash
   -startup
   plugins/org.eclipse.equinox.launcher_1.6.300.v20210813-1054.jar
