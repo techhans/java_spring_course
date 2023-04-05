@@ -30,11 +30,14 @@
 - https://techhans.tistory.com/100
 
 <br>
-   **[참고]** openJDK버전별 다운로드 - https://jdk.java.net/archive/
+
+  **[참고]** openJDK버전별 다운로드 - https://jdk.java.net/archive/
+
 <br>
 
-> 로컬 PC 환경에서는 JDK11을 설치하여 사용하나 실제 이클립스프로젝트와 서버에서는 JDK8을 사용할 예정
+> 로컬 PC 환경에서는 JDK 11 을 설치하여 사용하나 실제 이클립스프로젝트와 서버에서는 JDK 8 을 사용할 예정
 
+<br>
 
 - ### Eclipse
 2.1 Eclipse STS 3 설치 
@@ -143,16 +146,20 @@
 아래 순서대로 글을 읽으면서 가입 및 설치 진행
 
 <br>
-- https://techhans.tistory.com/36
+
+  - https://techhans.tistory.com/36
 
 <br>
-- https://techhans.tistory.com/37
+
+  - https://techhans.tistory.com/37
 
 <br>
-- https://techhans.tistory.com/38
+
+  - https://techhans.tistory.com/38
 
 <br>
-- https://techhans.tistory.com/39
+
+  - https://techhans.tistory.com/39
 
 <br>
 
