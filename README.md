@@ -40,6 +40,11 @@
 <br>
 
 - ### Eclipse
+
+> 가장 중요할 수 있는 개발툴은 이클립스 STS3 버전 3.9.18을 사용할 예정
+
+<br>
+
 2.1 Eclipse STS 3 설치 
 - https://techhans.tistory.com/102
 - https://github.com/spring-attic/toolsuite-distribution/wiki/Spring-Tool-Suite-3
