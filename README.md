@@ -158,11 +158,14 @@
 
 <br>
 
+
 - ### 기타
 2.8 VS Code 설치하기
 - https://code.visualstudio.com/download  
 - VSC 플러그인 - https://marketplace.visualstudio.com/VSCode 
 
+> VSC 개발툴은 현재 전세계적으로 가장 대중적이며 진보적인 개발툴이다 그러므로 다양한 Plugin을 통해 자바개발, 스프링개발이 가능하도록
+> 지원하고 있다. 물론 일부 제약 사항이 있지만 개발자로서 VSC 개발툴에 익숙해질 필요가 있다. 그러므로 이클립스와 VSC 동시에 같이 사용할 것을 추천
 
 2.9 sublimeText 설치하기
 - https://techhans.tistory.com/105
