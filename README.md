@@ -18,9 +18,11 @@
 2.1 JDK 8 설치 
 - https://techhans.tistory.com/100
 
-2.2 JDK 11 설치 
+2.2 JDK 11 설치 (기준)
 - https://techhans.tistory.com/100
 
+<br>
+   **[참고]** openJDK버전별 다운로드 - https://jdk.java.net/archive/
 <br>
 
 - ### Eclipse
