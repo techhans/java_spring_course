@@ -34,6 +34,37 @@
 2.3 Eclipse Heap Memory 설정
 - https://techhans.tistory.com/104
 
+2.4 설치 후 아래 기본 설정
+<br><br>
+**-vm**  
+**c:\jdk11\bin\javaw.exe**  
+**-Xmx2048m**  
+<br>
+```bash
+  -startup
+  plugins/org.eclipse.equinox.launcher_1.6.300.v20210813-1054.jar
+  --launcher.library
+  plugins/org.eclipse.equinox.launcher.win32.win32.x86_64_1.2.300.v20210828-0802
+  -product
+  org.springsource.sts.ide
+  --launcher.defaultAction
+  openFile
+  -vm
+   c:\jdk11\bin\javaw.exe
+  -vmargs
+  -Dosgi.requiredJavaVersion=11
+  -Dosgi.dataAreaRequiresExplicitInit=true
+  -Xms1024m
+  -Xmx2048m
+  --add-modules=ALL-SYSTEM
+  -Dosgi.module.lock.timeout=10
+```
+
+
+
+
+
+
 <br>
 
 - ### Git
