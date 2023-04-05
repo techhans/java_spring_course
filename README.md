@@ -136,10 +136,14 @@
 
 3.1 OCI 무료 가입방법
 
+아래 순서대로 글을 읽으면서 가입 및 설치 진행
 <br>
 - https://techhans.tistory.com/36
+<br>
 - https://techhans.tistory.com/37
+<br>
 - https://techhans.tistory.com/38
+<br>
 - https://techhans.tistory.com/39
 
 <br>
