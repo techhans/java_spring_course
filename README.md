@@ -158,6 +158,18 @@
 
 <br> 
 
+> git 설치 후에 브랜치 master -> main 으로 변경하는 방법
+> 해당 로컬 레포지토리(.git 존재하는) 위치에서 git 터미널로 아래 명령어 입력
+
+```bash
+git branch -m master main
+git fetch origin
+git branch -u origin/main main
+git remote set-head origin -a
+```
+
+<br>
+
 2.7 소스트리(sourcetree) 설치하기
  - https://www.sourcetreeapp.com/
 
