@@ -83,8 +83,49 @@
 
 <br>
 
+- ### Tomcat
+2.5 Tomcat 설치하기
+
+- https://tomcat.apache.org/download-92.cgi  
+
+ [Windows] https://archive.apache.org/dist/tomcat/tomcat-9/v9.0.52/bin/apache-tomcat-9.0.52-windows-x64.zip  
+ [Mac] https://archive.apache.org/dist/tomcat/tomcat-9/v9.0.52/bin/apache-tomcat-9.0.52.tar.gz 
+
+    ```
+        $ tar -xvf apache-tomcat-9.0.52.tar.gz -C ~  
+    ```
+
+<br>
+
+
+> Tomcat 실행과 종료 방법  
+
+[Windows]  
+
+
+   ```
+        > cd C:\apache-tomcat-9.0.50\bin
+        > startup.bat   
+        > shutdown.bat  
+   ```  
+ <br>
+ 
+[Mac]
+ 
+ ```
+        $ cd ~/apache-tomcat-9.0.50/bin  
+        $ ./startup.sh  
+        $ ./shutdown.sh    
+   ```
+  <br>  
+ 
+
+> 이클립스나 개발툴로 개발/테스트 시에는 해당 tomcat서버는 터미널이 아닌 개발툴 기능으로 서버시작과 서버종료를 사용 예정
+ 
+ <br>  
+
 - ### Git
-2.4 Git 설치하기
+2.6 Git 설치하기
 - https://techhans.tistory.com/101
 - https://git-scm.com/
 
@@ -101,18 +142,18 @@
 
 <br> 
 
-2.5 소스트리(sourcetree) 설치하기
+2.7 소스트리(sourcetree) 설치하기
  - https://www.sourcetreeapp.com/
 
 <br>
 
 - ### 기타
-2.6 VS Code 설치하기
+2.8 VS Code 설치하기
 - https://code.visualstudio.com/download  
 - VSC 플러그인 - https://marketplace.visualstudio.com/VSCode 
 
 
-2.7 sublimeText 설치하기
+2.9 sublimeText 설치하기
 - https://techhans.tistory.com/105
 - https://www.sublimetext.com/
 
