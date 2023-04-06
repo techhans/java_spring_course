@@ -71,7 +71,7 @@
 2.3 Eclipse Heap Memory 설정
 - https://techhans.tistory.com/104
 
-2.4 설치 후 아래 기본 설정
+2.4 설치 후 아래 기본 설정  (자신의 JDK 설치 위치)
 <br><br>
 **-vm**  
 **c:\jdk11\bin\javaw.exe**  
