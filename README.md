@@ -138,6 +138,11 @@
 
 > 이클립스나 개발툴로 개발/테스트 시에는 해당 tomcat서버는 터미널이 아닌 개발툴 기능으로 서버시작과 서버종료를 사용 예정
  
+
+<br>
+
+[go to top](#시작하기)
+
  <br>  
 
 - ### Git
@@ -177,9 +182,7 @@ git remote set-head origin -a
 2.8 GIT과 Github, Sourcetree 한번에 설정하기
  - https://techhans.tistory.com/107
 
-<br>
 
-[go to top](#시작하기)
 
 <br>
 
