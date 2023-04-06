@@ -190,10 +190,14 @@ git remote set-head origin -a
  - https://techhans.tistory.com/10
  - https://techhans.tistory.com/47
 
+> DB를 배우지 않아도 위의 기본 설치는 완료해야 함
+
 2.10 DBeaver DB툴 설치
  - https://techhans.tistory.com/9
 
 > DBeaver DB툴은 다른 상용DB툴에 견줄만큼 좋은 기능과 성능을 제공
+
+<br>
 
 - ### 기타
 2.11 VS Code 설치하기
