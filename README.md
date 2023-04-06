@@ -144,6 +144,7 @@
 2.6 Git 설치하기
 - https://techhans.tistory.com/101
 - https://git-scm.com/
+- https://techhans.tistory.com/107
 
 ```bash
      $ git --version
@@ -172,6 +173,7 @@ git remote set-head origin -a
 
 2.7 소스트리(sourcetree) 설치하기
  - https://www.sourcetreeapp.com/
+ - https://techhans.tistory.com/107
 
 <br>
 
