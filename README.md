@@ -218,6 +218,7 @@ git remote set-head origin -a
 
 2.13 mobaxterm 설치하기
 - https://mobaxterm.mobatek.net/download.html
+> 서버 터미널 접속을 위해 최적화된 SSH, SFTP 기능을 가지고 있는 터미널
 
 <br>
 
