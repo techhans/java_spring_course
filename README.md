@@ -215,6 +215,10 @@ git remote set-head origin -a
 - https://techhans.tistory.com/105
 - https://www.sublimetext.com/
 
+
+2.13 mobaxterm 설치하기
+- https://mobaxterm.mobatek.net/download.html
+
 <br>
 
 [go to top](#시작하기)
