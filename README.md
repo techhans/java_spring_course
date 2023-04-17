@@ -48,6 +48,8 @@
 <br>
 
   **[참고]** openJDK버전별 다운로드 - https://jdk.java.net/archive/
+  <br>
+  
   **[참고]** openJDK버전별(jdk8) 다운로드 - https://github.com/ojdkbuild/ojdkbuild
   
 <br>
