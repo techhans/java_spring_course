@@ -48,7 +48,8 @@
 <br>
 
   **[참고]** openJDK버전별 다운로드 - https://jdk.java.net/archive/
-
+  **[참고]** openJDK버전별(jdk8) 다운로드 - https://github.com/ojdkbuild/ojdkbuild
+  
 <br>
 
 > 로컬 PC 환경에서는 JDK 11 을 설치하여 사용하나 실제 이클립스프로젝트와 서버에서는 JDK 8 을 사용할 예정
