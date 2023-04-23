@@ -1,0 +1,1 @@
+number.toFixed(1);
