@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script> 
+        var copyObjectDeep = function(target){
+            var result = {};
+            if(typeof target === 'object' && target !== null){
+                for(var prop in target){
+                    result[prop] = copyObjectDeep(target[prop]);
+                }
+            }else{
+                result = target;
+            }
+            return result;
+        };
+////////////////////////////////////
+        var user = {
+            name: 'sjhan',
+            urls: {
+
+                portfolio: 'http://github.com/techhans',
+                blog: 'https//techhans.tistory.com',
+                cafe: 'https://cafe.naver.com/turtlecoding'
+            }
+        };
+////////////////////////////////////        
+        var user2 = copyObjectDeep(user);
+        // var user2 = copyObject(user);
+        // user2.urls = copyObject(user.urls);
+
+
+        user2.name = 'Hans';
+        console.log(user.name, user2.name);
+        console.log(user.name === user2.name);  // false
+
+        user.urls.portfolio = 'http://portfolio.com';
+        console.log(user.urls.portfolio, user2.urls.portfolio);
+        console.log(user.urls.portfolio === user2.urls.portfolio);  // false
+
+        user.urls.blog = '';
+        console.log(user.urls.blog, user2.urls.blog);
+        console.log(user.urls.blog === user2.urls.blog); //false
+
+
+    </script>
+</head>
+<body>
+    
+</body>
+</html>
