@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="./../../../jquery-3.6.4.min.js"></script>
+    <script>
+
+        // h1 태그의 color 스타일 속성을 가져옵니다
+        $('h1').css('color')
+        // h1 태그의 color 스타일 속성을 red로 설정
+        $('h1').css('color','red');
+        // h1 태그의 color 스타일 속성과 backgroundColor 스타일 속성을 한꺼번에 설정
+        $('h1').css({
+            color: 'red',
+            backgroundColor: 'orange'
+        })
+
+    </script>
+</head>
+<body>
+    <p class="text-1">TestA</p>
+    <p class="text-1">TestA</p>
+    <p class="text-2">TestB</p>
+    <p class="text-2">TestB</p>
+
+</body>
+</html>

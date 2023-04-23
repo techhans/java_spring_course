@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="./../../../jquery-3.6.4.min.js"></script>
+    <script>
+
+        // 웹페이지를 모두 불러오면
+        $(document).ready(function(){
+            // h1 태그 내부의 문자를 설정
+            $('.text-1').text('<h1>text() 메소드</h1>');
+            // h1 태그 내부의 문자를 설정
+            $('.text-2').html('<h1>text() 메소드</h1>');
+            
+        });
+
+    </script>
+</head>
+<body>
+    <p class="text-1">TestA</p>
+    <p class="text-1">TestA</p>
+    <p class="text-2">TestB</p>
+    <p class="text-2">TestB</p>
+
+</body>
+</html>

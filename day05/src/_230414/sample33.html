@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script>
+        // 화면 구성 완료
+        window.onload = function(){
+            // h1 태그 내부의 텍스트를 변경
+            const header = document.getElementById('header');
+            const originalText = header.innerHTML;
+            header.innerHTML = '자바스크립트로 변경';
+        }
+    </script>
+</head>
+<body>
+    <h1 id="header">Header Sector</h1>
+</body>
+</html>

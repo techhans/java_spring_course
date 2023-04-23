@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script>
+        // 이벤트 연결
+        window.onload = function(){
+            // 문서 객체 선택
+            const button = document.getElementById('button');
+            // 이벤트 연결
+            button.onclick = function(){
+                return false;
+            };
+
+
+        };
+
+    </script>
+
+
+</head>
+<body>
+    <button id="button">버튼</button>
+</body>
+</html>

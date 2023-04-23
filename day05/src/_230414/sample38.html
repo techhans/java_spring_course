@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="./../../../jquery-3.6.4.min.js"></script>
+    <script>
+        // 웹페이지를 모두 불러오면
+        $(document).ready(function(){
+            // body 태그에 h1 태그의 click 이벤트를 위임
+            $('body').on('click','h1',function(event){
+                // h1 태그를 생성해서 body 태그에 추가
+                $('<h1></h1>').text($(this).text()).appendTo('body');
+            });
+        });
+    </script>
+</head>
+<body>
+    <h1>Header</h1>
+</body>
+</html>

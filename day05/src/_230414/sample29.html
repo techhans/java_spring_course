@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="./../../../jquery-3.6.4.min.js"></script>
+    <script>
+        // 웹페이지를 모두 불러오면
+        $(document).ready(function(){
+            // h1 태그에 click 이벤트를 연결
+            $('h1').on('click', function(event){
+                // 이벤트를 발생시킨 문서 객체의 문자를 추출합니다.
+                const text = $(this).text();
+                // 출력
+                alert(text);
+            });
+        });
+    </script>
+
+</head>
+<body>
+    <h1>Header_1</h1>    
+    <h1>Header_2</h1>        
+</body>
+</html>
