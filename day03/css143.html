@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        div{
+            padding: 10px; 
+            margin-bottom: 10px;
+            width: 600px;
+            border: 3px solid black;
+        }
+
+        h1,a,input{
+            width: 200px;
+            height: 100px;
+            background-color:yellowgreen;
+
+        }
+/* 각 요소에 디스플레이 속성을 추가 */
+        h1{
+            display:inline;
+        }
+        a{
+            display:block;
+        }
+        input{
+            display:block;
+        }
+
+
+    </style>
+</head>
+<body>
+
+    <div>
+        <h2>*block태그(영역설정,한줄엔터)->inline태그*</h1>
+        <h1>제목태그 1</h1>
+        <h1>제목태그 2</h1>
+    </div>
+    <div>
+        <h2>*inline태그(영역불가,한줄연결)->block태그*</h1>        
+        <a href="#">링크태그 1</a>
+        <a href="#">링크태그 2</a>
+    </div>    
+    <div>
+        <h2>*inline-block태그(영역설정,한줄연결)->block태그*</h1>        
+        1<input type="text" name="id1">
+        2<input type="text" name="id2">
+    </div>
+    
+</body>
+</html>
